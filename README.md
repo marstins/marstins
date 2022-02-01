@@ -1,6 +1,6 @@
 ### Hi there ✌
 
-My name is Matheus Martins, and I am studying programming. I graduated from Business School in 2017, but never quite found myself enjoying my job, when the pandemic started, I decided to try something else, and went back to programming, something I used to have fun with as a teenager. Right now, I am studying a few front-end technologies, but in the future I plan to delve into AI and Machine Learning.
+My name is Matheus Martins, and I am studying programming. I graduated from Business School in 2017, but never quite found myself enjoying my job, when the pandemic started, I decided to try something else, and went back to programming, something I used to have fun with as a teenager. Right now, I am studying a few front-end, and back-end, technologies, but in the future I plan to delve into AI and Machine Learning.
 
 Aside from that, I am an amateur bass player, pizza lover and trash movies enthusiast. 
 
@@ -17,6 +17,7 @@ I am studying:
 <div style="display: inline-block">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div>
 
 <br/>
